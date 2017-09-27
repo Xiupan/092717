@@ -23,7 +23,7 @@ export default class Find extends Component {
             <h3 className="sub-headings" style={subHeadings}>Directions</h3>
             <img
               className="img-responsive"
-              src="https://maps.googleapis.com/maps/api/staticmap?center=greenville,sc&zoom=13&scale=2&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7Cgreenville,+sc"
+              src="https://maps.googleapis.com/maps/api/staticmap?center=100+Main+Street,+Spartanburg,+SC,+29302&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C100+Main+Street,+Spartanburg,+SC,+29302"
               alt="Google Map of greenville,sc"/>
             <a href=""><p className="primary-text">Majestic Thai 100 Main Street, Spartanburg, SC, 29302 </p></a>
           </div>
